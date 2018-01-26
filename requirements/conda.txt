@@ -8,9 +8,3 @@ jupyter
 scrapy
 scikit-learn
 statsmodels
-theano
-tensorflow
-bokeh
-keras
-nltk
-gensim
