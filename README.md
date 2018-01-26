@@ -2,6 +2,8 @@
 
 ## Dockerized data science environment
 
+The original motivation to run iPython in a container was to get Facebooks forecasting library Prophet to work on my Mac, but it turns out that it's also a nice way to get up to speed on a new machine and share a dev environment with other analysts.
+
 ### Requirements:
   * [docker](https://docs.docker.com/) (`brew cask install docker`)
   * [docker-machine](https://docs.docker.com/machine/get-started/) (comes with recent docker distribution)
