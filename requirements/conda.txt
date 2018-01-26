@@ -1,0 +1,16 @@
+cython
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+jupyter
+scrapy
+scikit-learn
+statsmodels
+theano
+tensorflow
+bokeh
+keras
+nltk
+gensim
